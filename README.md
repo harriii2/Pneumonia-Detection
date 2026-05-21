@@ -120,6 +120,11 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## 🧠 Team Member
 
-**Dipu Thakur ** — https://github.com/Dipu021
+| Name | Github profile |
+|---|---|
+| member 1 | url |
+| member 2 | url |
+| member 3 | url |
+| Prabin Kumar Sah | https://github.com/Praveeen014 |
