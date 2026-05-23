@@ -1,4 +1,4 @@
-# 🫁 PneumoScan AI — Chest X-ray Pneumonia Detection
+# PneumoScan AI — Chest X-ray Pneumonia Detection
 
 > A production-ready deep learning application that detects **Pneumonia** from chest X-ray images using a fine-tuned **ResNet-18** model — built with PyTorch and deployed with Streamlit.
 
