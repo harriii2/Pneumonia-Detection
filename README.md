@@ -49,30 +49,11 @@ PneumoScan AI is an end-to-end machine learning project demonstrating the full p
 
 ---
 
-## 🗂 Project Structure
-
-```
-pneumonia-detection/
-│
-├── app.py                  # Streamlit web application
-├── src/
-│   ├── train.py            # Model training script
-│   ├── evaluate.py         # Evaluation & metrics
-│   └── dataset.py          # Data loading & transforms
-├── model/
-│   └── pneumonia_model.pth # Trained weights (not included — see below)
-├── requirements.txt
-├── README.md
-└── screenshot.png
-```
-
----
-
 ## ⚙️ Installation & Usage
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Dipu021/Pneumonia-Detection.git
+git clone https://github.com/harriii2/Pneumonia-Detection.git
 cd pneumonia-detection
 ```
 
